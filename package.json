@@ -19,7 +19,7 @@
     "grunt-sails-linker": "~0.10.1",
     "grunt-sync": "0.5.2",
     "include-all": "^1.0.0",
-    "nodemailer": "^4.6.7",
+    "nodemailer": "^6.4.16",
     "rc": "1.0.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
